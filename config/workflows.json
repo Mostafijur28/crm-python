@@ -1,0 +1,14 @@
+{
+  "workflows": [
+    {
+      "lead_source": "Salesforce",
+      "persona": "Sofia",
+      "output_channel": "Whatsapp"
+    },
+    {
+      "lead_source": "HubSpot",
+      "persona": "Alex",
+      "output_channel": "iMessage"
+    }
+  ]
+}
