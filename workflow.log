@@ -9,3 +9,9 @@ INFO:root:Processing lead from Salesforce using persona Sofia over Whatsapp
 INFO:root:Sending Whatsapp message to lead: Sample lead data - Message: Sofia is contacting you via Whatsapp about your interest.
 INFO:root:Processing lead from HubSpot using persona Alex over iMessage
 INFO:root:Sending iMessage to lead: Sample lead data - Message: Alex is contacting you via iMessage about your interest.
+INFO:root:Processing lead from HubSpot using persona Alex over iMessage
+INFO:root:Sending iMessage to lead: Sample lead data - Message: Alex is contacting you via iMessage about your interest.
+INFO:root:Processing lead from Salesforce using persona Sofia over Whatsapp
+INFO:root:Sending Whatsapp message to lead: Sample lead data - Message: Sofia is contacting you via Whatsapp about your interest.
+INFO:root:Processing lead from HubSpot using persona Alex over iMessage
+INFO:root:Sending iMessage to lead: Sample lead data - Message: Alex is contacting you via iMessage about your interest.
